@@ -1,4 +1,4 @@
-# Conditionals & Logic
+# Conditionals
 ### If statement
 Form
 ```
