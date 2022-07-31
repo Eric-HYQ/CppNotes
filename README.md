@@ -5,3 +5,4 @@ Start to learn C Plus Plus and take some notes to record and encourage myself
 - basic(Hello world)
 - variable
 - conditional
+- logic
