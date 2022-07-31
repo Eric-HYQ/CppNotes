@@ -6,4 +6,5 @@ Start to learn C Plus Plus and take some notes to record and encourage myself
 - variable
 - conditional
 - logic
-- loop
+- loop(containing error types)
+- vectors
