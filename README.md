@@ -9,3 +9,5 @@ Start to learn C Plus Plus and take some notes to record and encourage myself
 - loop(containing error types)
 - vectors
 - function
+- class & object
+- reference & pointer
