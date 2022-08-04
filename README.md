@@ -8,3 +8,4 @@ Start to learn C Plus Plus and take some notes to record and encourage myself
 - logic
 - loop(containing error types)
 - vectors
+- function
