@@ -77,9 +77,13 @@ int main() {
 }
 ```
 > Use `int i`, no decaration of `c`, outpout 3, 3
+> 
 > Use `int &i`, no decaration of `c`, outpout 3, 9
+> 
 > Use `int i`, decaration of `c`, outpout 3, 9
+> 
 > Use `int &i`, no decaration of `c`, outpout 9, 9
+> 
 > The last one is strange
 
 `const` keywords tells the compiler that we won’t change something, if try to change, compiler will throw an error
